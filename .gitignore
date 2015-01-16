@@ -1,0 +1,10 @@
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+/logs
+/project/project
+/project/target
+/target
+/*.iml
