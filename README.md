@@ -1,6 +1,8 @@
 iPopify
 =======
 
+[![Build Status](https://travis-ci.org/oldgit/ipopify.svg?branch=master)](https://travis-ci.org/oldgit/ipopify)
+
 **AngularJS - Scala - Play - Guice - PlayReactiveMongo**
 
 A full application stack for a Modern Web application, lets review the components:
