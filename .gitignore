@@ -2,6 +2,8 @@
 .*
 # except for .gitignore
 !.gitignore
+# except for .travis.yml
+!.travis.yml
 
 /logs
 /project/project
