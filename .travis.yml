@@ -1,8 +1,9 @@
+sudo: false
 services:
   - mongodb
-language: scala
 jdk:
   - oraclejdk8
   - oraclejdk7
+language: scala
 scala:
-  - "2.11.4"
+  - 2.11.4
